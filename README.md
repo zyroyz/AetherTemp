@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner]([your-image-link-here](https://discordapp.com/channels/1345741750467301407/1345742664355680547/1346518788543348756))  
+![Mod Menu Banner]([https://discordapp.com/channels/1345741750467301407/1345742664355680547/1346518788543348756})  
 
 ## 🚀 About  
 This is my **first-ever template** that I’m releasing! 🎉  
