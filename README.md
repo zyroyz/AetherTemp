@@ -10,7 +10,9 @@ It’s inspired by **Orbit**, and I hope you enjoy it.
 [🔗 Click Here to Download](your-download-link-here)  
 
 ## 💡 Suggestions  
-If you’d like me to create more templates, let me know by opening an **issue** or contacting me!  
+If you’d like me to create more templates, let me know!  
+Join our **Discord server** and drop your suggestions:  
+👉 [Join Here](https://discord.gg/KXABTbrQx2)  
 
 ## 📜 Disclaimer  
-This is for **educational purposes only**. I am not responsible for how this is used. 
+This is for **educational purposes only**. I am not responsible for how this is used.  
