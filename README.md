@@ -1,6 +1,6 @@
 # Mod Menu Template  
 
-![Mod Menu Banner]([https://discordapp.com/channels/1345741750467301407/1345742664355680547/1346518788543348756})  
+![Mod Menu Banner](https://media.discordapp.net/attachments/1345742664355680547/1346518788287238255/image.png?ex=67c87ad8&is=67c72958&hm=47024e5be9dcc0186cc3359fabadd4c7fc875f24777444adfce01e4455196262&=&format=webp&quality=lossless&width=1522&height=856)  
 
 ## 🚀 About  
 This is my **first-ever template** that I’m releasing! 🎉  
@@ -17,5 +17,6 @@ Join our **Discord server** and drop your suggestions:
 ## 📜 Disclaimer  
 This is for **educational purposes only**. I am not responsible for how this is used.  
 
-## ❤️
-credits to iidk for the main template it made it easier to make menu's with it, please make me a actual mod creator in your server btw
+## ❤️ Credits  
+Credits to **iidk** for the main template it made it easier to create menus with it.  
+*(Also please make me an actual mod creator in your server)*  
