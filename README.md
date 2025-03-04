@@ -6,9 +6,6 @@
 This is my **first-ever template** that I’m releasing! 🎉  
 It’s inspired by **Orbit**, and I hope you enjoy it.  
 
-## 📥 Download  
-[🔗 Click Here to Download](your-download-link-here)  
-
 ## 💡 Suggestions  
 If you’d like me to create more templates, let me know!  
 Join our **Discord server** and drop your suggestions:  
