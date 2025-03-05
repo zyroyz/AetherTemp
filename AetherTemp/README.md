@@ -1,16 +1,21 @@
-# ii's Stupid Template
-ii's Stupid Template is a mod menu template for Gorilla Tag with custom categories and the maximum amount of customization possible. This template is meant for more advanced users, so if you're a new menu creator, this could be difficult for you.
+# Aether Template (Inspired by Orbit) - v0.0.2  
 
-## Do I need permission to use this?
-No, this template is free and public for anyone to use. You are welcome to utilize it for your projects, modify it to suit your needs, and share it with others. We believe in a collaborative and open community where resources are accessible to all. Just don't skid, cause skidding is bad.
+You can download it directly from **GitHub**:  
 
----
+:link: **[GitHub Link](https://github.com/zyroyz/AetherTemp)**  
 
-# Installation
+Or if you don’t trust that, here’s the direct link again:  
+:point_right: **https://github.com/zyroyz/AetherTemp**  
 
-- Download the source code from [here](https://github.com/iiDk-the-actual/iis.Stupid.Template/releases/latest)
-- Change your `<GamePath>` (Gorilla Tag directory) in `Directory.Build.props` if required
-- Change the menu name in `PluginInfo.cs`
-- Edit the menu visuals in `Menu/Settings.cs`
-- Add buttons in `Menu/Buttons.cs`
-- Build with `Ctrl` + `Shift` + `B`, it will get put in your plugins folder automatically
+## :rocket: What's New in v0.0.2  
+- **Added Orbit Settings:**  
+  - Choose from **Slow, Normal, Fast** orbit speeds.  
+  - Choose from **Close, Normal, Far** orbit distances.  
+  - Fixed the weird toggle color to something better looking.  
+- **Added Pre-Made Categories** .  
+
+## :tools: Test the Template  
+You can test out the template using the **DLL file** provided.  
+
+## :bulb: Want More Templates?  
+Join my **Discord server** to request what to add or what templates should make next (Linked on the GitHub page)
